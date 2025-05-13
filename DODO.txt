@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- titre de la page -->
+    <title>actualité de football</title>
+  </head>
+  <body>
+    <!-- image de fond. -->
+     <img src="nintche.jpg" width=100% height="100%" "stade de footbal"
+     style="position:fixed top:0;:left0 z-index: -1; ">
+    <h1>ACTU football</h1>
+    <p><strong></strong> publié le 12 mai 2025</strong></p>
+    <H2>Le psg sacré champion </H2>
+  <p>Le paris saint-germain a remporté la Ligue 1 apres une victoire decisive contre lyon </p>
+  <h2>La france se prépare pour L'euro 2025</h2>
+  <P><STRong>Publié le 10 MAI 2025</STRong></P>
+  <p>Didier Deschamps à dévoile la liste des 23 jouers sélectionnés pour la compétition </p>
+  <h2>victoire de l'OM en coupe de france </h2>
+  <p><strong>Publié le 8 mai 2025</strong></p>
+  <P>L'Olympique de Marseille a battu Rennes en finale grâce a un but de derniére minute</P>
+
+  </body>
+</html>
